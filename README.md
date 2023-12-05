@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Najrul Ansari</h1>
 <h3 align="center">A passionate Data science Enthusiast from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=najrul-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="najrul-ansari" /> </p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/Najrul-Ansari](https://github.com/Najrul-Ansari)
 
 - 📫 How to reach me **ansarinajrul14@gmail.com**
